@@ -100,7 +100,7 @@ charadex.page.masterlist = {
 
   relatedData: {
 
-    [charadex.sheet.pages.MasterlistLog]: {
+    [charadex.sheet.pages.masterlistLog]: {
 
       sheetPage: charadex.sheet.pages.masterlistLog,
       primaryProperty: 'id',

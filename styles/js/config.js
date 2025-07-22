@@ -34,7 +34,6 @@ charadex.sheet = {
   },
 
   options: {
-
     designTypes: ['All', 'Owner Design', 'Staff Design', 'MYO', 'Event', 'Gacha', 'NPC', 'Custom', 'Bred', 'Premade'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased', 'WIP', 'Not For Trade'],
     rarity: ['All', 'Common', 'Rare', 'Legendary'],

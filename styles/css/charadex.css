@@ -27,9 +27,9 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #121212;
-  --cd-content-background-color: #282828;
-  --cd-faded-background-color: #3f3f3f;
+  --cd-body-background-color: #000;
+  --cd-content-background-color: #000;
+  --cd-faded-background-color: #333;
 
   /* Background Extras */
   --cd-body-background-image: url(https://iili.io/FOcyMKv.gif);

@@ -54,9 +54,9 @@ body {
   --cd-navbar-background-color: #000;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
-  --cd-navbar-text-color: var(--cd-content-background-color);
-  --cd-navbar-link-color: var(--cd-navbar-text-color);
-  --cd-navbar-link-color-hover: var(--cd-primary-color);
+  --cd-navbar-text-color: var(--cd-body-text-color:);
+  --cd-navbar-link-color: var(--cd-primary-color);
+  --cd-navbar-link-color-hover: var(--cd-secondary-color));
   --cd-navbar-font-family: var(--cd-header-font-family);
 
   /* ============================================================= */
@@ -232,7 +232,8 @@ body {
   /* Global Background */
   background-color: var(--cd-body-background-color);
   background-image: var(--cd-body-background-image);
-  background-position: cover;
+  background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
 
 }

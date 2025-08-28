@@ -62,7 +62,7 @@ charadex.page.masterlist = {
   sort: {
     toggle: true,
     key: "id",
-    order: "asc",
+    order: "desc",
     parameters: []
   },
 
